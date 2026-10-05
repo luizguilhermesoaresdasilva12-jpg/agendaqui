@@ -53,10 +53,6 @@ O projeto foi construído utilizando tecnologias nativas da web, focando em leve
 
 ---
 
-## 📂 Estrutura do Projeto
 
-```text
-agendaqui/
-├── index.html     # Estrutura principal da página
-├── style.css      # Estilos e design responsivo
-└── app.js         # Lógica da aplicação e validações
+
+
